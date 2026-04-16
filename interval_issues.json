@@ -1,0 +1,4154 @@
+[
+  {
+    "model_id": "B160:M45",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B52:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B52:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B319:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B236:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B166:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B221:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B148:M42",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B351:M22",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B222:M13",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B201:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B201:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B330:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B178:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B237:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B52:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B223:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B223:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B125:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B125:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B156:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B351:M30",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B69:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B62:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B247:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B64:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B103:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B161:M101",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B161:M101",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B371:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B219:M79",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B246:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B162:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B295:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B104:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B172:M42",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B241:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B106:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B14:M210",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B220:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B391:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B217:M22",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B65:M72",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B225:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B358:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B98:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B224:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B65:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B171:M823",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B253:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B257:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B64:M72",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B330:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B95:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B196:M45",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B353:M22",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B8:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B271:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B219:M101",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B219:M101",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B270:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B61:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B246:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B168:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B157:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B294:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B93:M823",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B229:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B147:M42",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B231:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B255:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B48:M871",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B247:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B116:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B135:M30",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B22:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B371:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B34:M79",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B167:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B175:M42",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B114:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B114:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B93:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B93:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B231:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B135:M23",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B88:M72",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B250:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B94:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B269:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B251:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B168:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B245:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B245:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B353:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B92:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B192:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B192:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B39:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B39:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B157:M87",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B170:M45",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B126:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B126:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B169:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B265:M823",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B125:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B116:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B116:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B271:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B166:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B359:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B166:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B128:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B270:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B69:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B223:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B238:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B265:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B265:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B222:M823",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B285:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B389:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B250:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B63:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B226:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B256:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B219:M102",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B219:M102",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B96:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B219:M46",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B319:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B70:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B63:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B18:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B198:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B198:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B158:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B196:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B251:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B69:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B294:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B355:M30",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B120:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B457:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B254:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B146:M42",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B65:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B114:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B48:M87",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B169:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B17:M72",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B155:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B125:M45",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B126:M12",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B66:M72",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B247:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B244:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B128:M45",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B286:M13",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B354:M22",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B354:M23",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B352:M23",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B128:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B128:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B270:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B62:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B160:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B67:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B219:M823",
+    "enabled": false,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B267:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B267:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B38:M42",
+    "enabled": true,
+    "interval": "240",
+    "schedule_index": 0,
+    "as_seconds": "240 seconds = 4.0 minutes",
+    "as_minutes": "240 minutes = 4.0 hours"
+  },
+  {
+    "model_id": "B221:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B216:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B151:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B216:M13",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B360:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B135:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B231:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B359:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B249:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B255:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B159:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B351:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B134:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B218:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B218:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B181:M823",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B248:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B225:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B95:M87",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B134:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B248:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B241:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B253:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B255:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B144:M42",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B90:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B98:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B127:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B265:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B159:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B156:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B94:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B195:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B95:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B228:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B88:M12",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B245:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B245:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B88:M21",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B171:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B254:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B353:M23",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B22:M72",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B223:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B223:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B205:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B237:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B160:M823",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B203:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B203:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B302:M42",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B155:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B289:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B10:M42",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B196:M823",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B69:M72",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B355:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B103:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B229:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B269:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B236:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B371:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B218:M823",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B127:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B127:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B196:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B88:M210",
+    "enabled": false,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B286:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B286:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B195:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B271:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B159:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B99:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B177:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B225:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B206:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B391:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B289:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B92:M45",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B241:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B218:M45",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B170:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B126:M45",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B63:M72",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B114:M823",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B53:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B53:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B114:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B244:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B269:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B358:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B220:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B220:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B39:M76",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B156:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B65:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B67:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B93:M13",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B8:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B227:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B125:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B125:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B249:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B222:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B158:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B170:M823",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B222:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B222:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B14:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B243:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B243:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B299:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B238:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B226:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B256:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B220:M13",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B216:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B216:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B61:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B257:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B164:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B299:M72",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B139:M42",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B114:M45",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B218:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B218:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B164:M72",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B161:M102",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B161:M102",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B304:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B304:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B169:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B221:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B221:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B155:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B126:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B126:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B176:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B162:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B235:M42",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B48:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B245:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B217:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B220:M823",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B250:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B352:M22",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B167:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B158:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B93:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B93:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B167:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B200:M42",
+    "enabled": false,
+    "interval": "720",
+    "schedule_index": 0,
+    "as_seconds": "720 seconds = 12.0 minutes",
+    "as_minutes": "720 minutes = 12.0 hours"
+  },
+  {
+    "model_id": "B94:M87",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B304:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B304:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B104:M42",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B62:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B224:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B384:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B127:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B127:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B201:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B201:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B353:M30",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B51:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B51:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B157:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B104:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B198:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B198:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B72:M21",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B354:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B127:M45",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B245:M13",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B223:M823",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B384:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B249:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B114:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B114:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B95:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B199:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B174:M42",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B254:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B228:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B160:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B205:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B216:M823",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B160:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B160:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B39:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B360:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B66:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B222:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B222:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B104:M72",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B22:M42",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B265:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B265:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B58:M42",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B64:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B126:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B168:M45",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B289:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B206:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B70:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B127:M823",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B360:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B9:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B160:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B160:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B203:M80",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B203:M80",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B203:M80",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 2,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B457:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B384:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B238:M42",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B221:M823",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B359:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B92:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B92:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B285:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B218:M13",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B120:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B120:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B223:M13",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B173:M42",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B248:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B154:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B157:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B39:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B39:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B354:M30",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B70:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B355:M23",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B149:M42",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B286:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B286:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B64:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B201:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B256:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B66:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B253:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B62:M72",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B246:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B171:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B15:M44",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B126:M210",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B358:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B67:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B457:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B168:M823",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B218:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B244:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B50:M80",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B50:M80",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B50:M80",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 2,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B128:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B128:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B135:M22",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B8:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B92:M46",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B243:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B243:M101",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B120:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B243:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B285:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B55:M79",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B67:M72",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B181:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B227:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B106:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B355:M22",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B90:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B110:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B18:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B17:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B218:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B251:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B228:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B57:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B97:M21",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B10:M44",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B216:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B216:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B66:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B304:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B18:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B156:M87",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B216:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B22:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B97:M72",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B220:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B192:M80",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B192:M80",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B192:M80",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 2,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B50:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B50:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B389:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B110:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B110:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B154:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B94:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B134:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B181:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B330:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B319:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B122:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B37:M22",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B90:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B221:M13",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B229:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B265:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B39:M45",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B53:M210",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B198:M13",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B352:M30",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B351:M23",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B219:M13",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B224:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B389:M210",
+    "enabled": true,
+    "interval": "150",
+    "schedule_index": 0,
+    "as_seconds": "150 seconds = 2.5 minutes",
+    "as_minutes": "150 minutes = 2.5 hours"
+  },
+  {
+    "model_id": "B236:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B221:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B221:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B295:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B257:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B286:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B222:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B227:M22",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B352:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B219:M42",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B223:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B217:M23",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B220:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B220:M102",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B243:M13",
+    "enabled": false,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B170:M42",
+    "enabled": true,
+    "interval": "900",
+    "schedule_index": 0,
+    "as_seconds": "900 seconds = 15.0 minutes",
+    "as_minutes": "900 minutes = 15.0 hours"
+  },
+  {
+    "model_id": "B170:M42",
+    "enabled": true,
+    "interval": "900",
+    "schedule_index": 1,
+    "as_seconds": "900 seconds = 15.0 minutes",
+    "as_minutes": "900 minutes = 15.0 hours"
+  },
+  {
+    "model_id": "B72:M12",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B217:M30",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B286:M823",
+    "enabled": true,
+    "interval": "360",
+    "schedule_index": 0,
+    "as_seconds": "360 seconds = 6.0 minutes",
+    "as_minutes": "360 minutes = 6.0 hours"
+  },
+  {
+    "model_id": "B122:M45",
+    "enabled": false,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B198:M46",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B99:M12",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  },
+  {
+    "model_id": "B103:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 0,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B103:M42",
+    "enabled": true,
+    "interval": "60",
+    "schedule_index": 1,
+    "as_seconds": "60 seconds = 1.0 minutes",
+    "as_minutes": "60 minutes = 1.0 hours"
+  },
+  {
+    "model_id": "B116:M21",
+    "enabled": true,
+    "interval": "120",
+    "schedule_index": 0,
+    "as_seconds": "120 seconds = 2.0 minutes",
+    "as_minutes": "120 minutes = 2.0 hours"
+  }
+]
