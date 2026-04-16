@@ -103,11 +103,8 @@ def create_updated_intervals_json():
 
 
 if __name__ == "__main__":
-    # update_intervals_for_affected_models()
-    # create_updated_intervals_json()
-
+    update_intervals_for_affected_models()
+    create_updated_intervals_json()
     with open('updated_intervals.json') as f:
         updated_intervals_data = json.load(f)
-    with open('interval_issues.json') as f:
-        interval_issues_data = json.load(f)
-    embed()
+    
